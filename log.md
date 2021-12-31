@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 30th 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Created a Github account, created a profile on freecode camp and completed 30% of the Responsive web design course. 
+
+**Thoughts:** I have had an idea for a H&S website for a while, so I am going to use this as a goal to assist in my learning of HTML & Javascript. I obtained a link to the digital versions of YDNJS series. So far so good. 
 
 **Link to work:** [Calculator App](http://www.example.com)
 
