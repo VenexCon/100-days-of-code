@@ -7,14 +7,12 @@
 
 **Thoughts:** I have had an idea for a H&S website for a while, so I am going to use this as a goal to assist in my learning of HTML & Javascript. I obtained a link to the digital versions of YDNJS series. So far so good. 
 
-**Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 2nd 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Worked on a project website for H&S question and answer. Attempted to mimic the HTML requirements form the respnsive web development course with random sucess, need to learn baout formatting & layout. There were a few issues in the first revision with radio types instead of checkboxes.  
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Looking back through the coe after a day of not working on it makes it difficult to interpret the work. I am sure clarity will ocme with time. 
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
