@@ -17,11 +17,13 @@ Worked on a project website for H&S question and answer. Attempted to mimic the 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 2: January 4th Tuesday.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp, along with integrating the learnt CSS & HTML works onto my SHEQ project. Learnt about style blocks, github projects and assigning classes. Researched into the use of commas and apostraphes, along with buying HTML & CSS design by Jon Duckett. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Great fun when working through bugs, or errors, learning how to use google and stack overflow is helping, along with watching some intro videos to CSS, HTML5 and github has helped progression. 
+
+Things to research: ODIN project, Colt Steeles course, you don't know JS, Havard CS50.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
