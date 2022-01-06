@@ -25,6 +25,5 @@ Worked on a project website for H&S question and answer. Attempted to mimic the 
 
 Things to research: ODIN project, Colt Steeles course, you don't know JS, Havard CS50.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 3: January 6th Thursday.
+Started listening to HTML series online. 
