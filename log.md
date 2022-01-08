@@ -32,3 +32,5 @@ CSS Lengths: can be absoloute such as inchs,mm, metres, or relative such as .em,
 Using the # signifies an element with a specific ID attribute, where as (.) signifiesa and element with a specific class attribute. 
 
 ### Day 4: January 8th Thursday.
+
+Continued with free code camp, learnt about using CSS variables and custom variables and how the :root: function allows cascading.inheitance of attributes and takes priority above the body class. 
