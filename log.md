@@ -26,4 +26,4 @@ Worked on a project website for H&S question and answer. Attempted to mimic the 
 Things to research: ODIN project, Colt Steeles course, you don't know JS, Havard CS50.
 
 ### Day 3: January 6th Thursday.
-Started listening to HTML series online. 
+Started listening to HTML series online. Continued with freecode camp. Learnt abouty using CSS to style boxes, padding, mrgins and using clockwork form to dictate top, right, bottom and left sizes. Trying to keep a seprate log on the individual elements and classes, but having discovered WS3Schools and other web resoruces it may prove more difficult to remember, so googling may be the way foward. 
