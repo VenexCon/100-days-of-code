@@ -27,3 +27,8 @@ Things to research: ODIN project, Colt Steeles course, you don't know JS, Havard
 
 ### Day 3: January 6th Thursday.
 Started listening to HTML series online. Continued with freecode camp. Learnt abouty using CSS to style boxes, padding, mrgins and using clockwork form to dictate top, right, bottom and left sizes. Trying to keep a seprate log on the individual elements and classes, but having discovered WS3Schools and other web resoruces it may prove more difficult to remember, so googling may be the way foward. 
+
+CSS Lengths: can be absoloute such as inchs,mm, metres, or relative such as .em, or .rem. em & rem are relative units and therefore relative to fot sizes etc. 
+Using the # signifies an element with a specific ID attribute, where as (.) signifiesa and element with a specific class attribute. 
+
+### Day 4: January 8th Thursday.
