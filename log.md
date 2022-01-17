@@ -34,3 +34,8 @@ Using the # signifies an element with a specific ID attribute, where as (.) sign
 ### Day 4: January 8th Thursday.
 
 Continued with free code camp, learnt about using CSS variables and custom variables and how the :root: function allows cascading.inheitance of attributes and takes priority above the body class. 
+Also learnt was the use of ID''s to override certain CSS assignments along with using in-line styles. The use of RGB and Hex colours in CSS to give a bigger range of formatting colours. Also learnt about the use of assigning cutom variables to styles and elements. 
+
+### Day 5: January 17th Monday 
+
+Book from Jon Duckett came, reading into beginning of HTML and CSS. Including how to uise and arrange file structures within webpages. Also learnt was the use of building web pages in macs and how HTML works when working with websites such as wordpress and word documents. Also delve more deeply into using Aref's to navigate along pages. 
