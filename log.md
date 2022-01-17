@@ -39,3 +39,4 @@ Also learnt was the use of ID''s to override certain CSS assignments along with 
 ### Day 5: January 17th Monday 
 
 Book from Jon Duckett came, reading into beginning of HTML and CSS. Including how to uise and arrange file structures within webpages. Also learnt was the use of building web pages in macs and how HTML works when working with websites such as wordpress and word documents. Also delve more deeply into using Aref's to navigate along pages. 
+- Freecode camp is now onto applied visual Design, currently building the director on Github for the SHEQ website Q&A including a seperate page for questions already asked. 
