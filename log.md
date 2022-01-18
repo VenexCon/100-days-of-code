@@ -41,3 +41,9 @@ Also learnt was the use of ID''s to override certain CSS assignments along with 
 Book from Jon Duckett came, reading into beginning of HTML and CSS. Including how to uise and arrange file structures within webpages. Also learnt was the use of building web pages in macs and how HTML works when working with websites such as wordpress and word documents. Also delve more deeply into using Aref's to navigate along pages. 
 - Freecode camp is now onto applied visual Design, currently building the director on Github for the SHEQ website Q&A including a seperate page for questions already asked. 
 - Looking in applied visual design and using properties to assign visual affects. Must remmeber that the (#) is for assigning properties. 
+
+
+## Day 6: January 18th Tuesday. 
+Began using "font-size and Font-weight properties with CSS. This can be used to aid in styling design for your webpage by adding in CSS to the html elements. 
+Begin with Harvard CS:50. 
+Introduction to using Psuedo-elements such as ":hover"
