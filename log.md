@@ -46,4 +46,6 @@ Book from Jon Duckett came, reading into beginning of HTML and CSS. Including ho
 ## Day 6: January 18th Tuesday. 
 Began using "font-size and Font-weight properties with CSS. This can be used to aid in styling design for your webpage by adding in CSS to the html elements. 
 Begin with Harvard CS:50. 
-Introduction to using Psuedo-elements such as ":hover"
+Introduction to using Psuedo-elements such as ":hover". 
+Also learnng is about CSS Box model and containers, "Relative" means that you are moving an item relative to it's position on the normal flow of a page. This is contrary to absoloute, which locks an item to a fixed position and ccauses other items to ignore it and the space it fills. 
+Also looked at was fixed positioning and how items can be fixed relative to it's parent's position. 
