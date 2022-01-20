@@ -49,3 +49,6 @@ Begin with Harvard CS:50.
 Introduction to using Psuedo-elements such as ":hover". 
 Also learnng is about CSS Box model and containers, "Relative" means that you are moving an item relative to it's position on the normal flow of a page. This is contrary to absoloute, which locks an item to a fixed position and ccauses other items to ignore it and the space it fills. 
 Also looked at was fixed positioning and how items can be fixed relative to it's parent's position. 
+
+## Day 7 January 19th 
+Applied web design and learning about display: block and in-line block elements, also learning about HSL and it's use for colour web design. Alos looked at was adding in Z-index to div elements to create the layering effect, the higher the Z number the further along the Z-axis it becomes. 
