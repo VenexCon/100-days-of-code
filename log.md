@@ -51,4 +51,7 @@ Also learnng is about CSS Box model and containers, "Relative" means that you ar
 Also looked at was fixed positioning and how items can be fixed relative to it's parent's position. 
 
 ## Day 7 January 19th 
-Applied web design and learning about display: block and in-line block elements, also learning about HSL and it's use for colour web design. Alos looked at was adding in Z-index to div elements to create the layering effect, the higher the Z number the further along the Z-axis it becomes. 
+Applied web design and learning about display: block and in-line block elements, also learning about HSL and it's use for colour web design. Alos looked at was adding in Z-index to div elements to create the layering effect, the higher the Z number the further along the Z-axis it becomes. Learnt was using the Margin: auto; to center objects horizontaly on the webpage. 
+
+## Day 8 January 20th
+
