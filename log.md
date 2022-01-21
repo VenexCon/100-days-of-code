@@ -54,4 +54,5 @@ Also looked at was fixed positioning and how items can be fixed relative to it's
 Applied web design and learning about display: block and in-line block elements, also learning about HSL and it's use for colour web design. Alos looked at was adding in Z-index to div elements to create the layering effect, the higher the Z number the further along the Z-axis it becomes. Learnt was using the Margin: auto; to center objects horizontaly on the webpage. 
 
 ## Day 8 January 20th
+Day 8 begins with thelinear-repeating-gradiant(), where the gradient beginnings are written as the amount of pixels away from the start of the gradient. Also used was the use of psueod elements such as :hover, when used with eleemnts such as (div) and links. Using the Transform fuinction, along with the skew(X,Y,Z) for page design. 
 
