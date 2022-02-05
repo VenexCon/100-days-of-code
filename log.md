@@ -56,3 +56,7 @@ Applied web design and learning about display: block and in-line block elements,
 ## Day 8 January 20th
 Day 8 begins with thelinear-repeating-gradiant(), where the gradient beginnings are written as the amount of pixels away from the start of the gradient. Also used was the use of psueod elements such as :hover, when used with eleemnts such as (div) and links. Using the Transform fuinction, along with the skew(X,Y,Z) for page design. 
 Also shown was the use of background textures and patterns to aid in the visual layout ofd the site. 
+
+
+## Day 9 Febuary 5th 
+Day 9 begins after a two week break. Decided to spend some time renewing the SHEQ website with stuff learnt over the past couple of weeks rather than trying to burn myself out by hammering home freecodecamp.. 
