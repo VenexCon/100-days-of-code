@@ -59,4 +59,7 @@ Also shown was the use of background textures and patterns to aid in the visual 
 
 
 ## Day 9 Febuary 5th 
-Day 9 begins after a two week break. Decided to spend some time renewing the SHEQ website with stuff learnt over the past couple of weeks rather than trying to burn myself out by hammering home freecodecamp.. 
+Day 9 begins after a two week break. Decided to spend some time renewing the SHEQ website with stuff learnt over the past couple of weeks rather than trying to burn myself out by hammering home freecodecamp.
+
+## Day 10 Febuary 6th
+Decided to add a navigation bar to the top of the SHEQ website, found out that using @import is now frowened upon so stopped attempting to make it work. Aftert he Nav bar isifnishedi  nthe demo HTML ill add the styles to a seperate CSS sheet to tdiy everything up. Currently using elements of freecodecamp such as creating links insides unordered lists to create a nvigation bar, along with using fixed positioning for the header. following https://codetheweb.blog/style-a-navigation-bar-css/
