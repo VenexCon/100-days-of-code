@@ -65,3 +65,6 @@ Day 9 begins after a two week break. Decided to spend some time renewing the SHE
 Decided to add a navigation bar to the top of the SHEQ website, found out that using @import is now frowened upon so stopped attempting to make it work. Aftert he Nav bar isifnishedi  nthe demo HTML ill add the styles to a seperate CSS sheet to tdiy everything up. Currently using elements of freecodecamp such as creating links insides unordered lists to create a nvigation bar, along with using fixed positioning for the header. following https://codetheweb.blog/style-a-navigation-bar-css/
 
 I asked a question on stack overflow and got some...heated responses, soft skills seem to be lacking in the developer world. I need to better utilise more up to date functions,and ensure that before using free-code-camp soloutions, to check if their are more up to date, or common methods.  
+
+## Day 11 Febuary 7th 
+Decided to carry on with freecode camp, although i still want to get a better grasp of CSS where possible. Before carrying on with freecode camp i want to get the DIV background width =100% and center the wording and submission form. 
