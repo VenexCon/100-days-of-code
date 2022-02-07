@@ -67,4 +67,4 @@ Decided to add a navigation bar to the top of the SHEQ website, found out that u
 I asked a question on stack overflow and got some...heated responses, soft skills seem to be lacking in the developer world. I need to better utilise more up to date functions,and ensure that before using free-code-camp soloutions, to check if their are more up to date, or common methods.  
 
 ## Day 11 Febuary 7th 
-Decided to carry on with freecode camp, although i still want to get a better grasp of CSS where possible. Before carrying on with freecode camp i want to get the DIV background width =100% and center the wording and submission form. 
+Decided to carry on with freecode camp, although i still want to get a better grasp of CSS where possible. Before carrying on with freecode camp i want to get the DIV background width =100% and center the wording and submission form. Decided against the background color as it did not look right. 
