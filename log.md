@@ -83,4 +83,6 @@ Today is focused on applied accessibility for user interfaces and how screen rea
   <label for="name">Name:</label> ------------------> The "label for" value, must be equal to the ID of the element. 
   <input type="text" id="name" name="name">
 </form>
-Also must remmeber HTML5 tags are <></> atrtributes sit inside tags, values are well values. 
+Also must remmeber HTML5 tags are <></> atrtributes sit inside tags, values are well values.
+  
+When looking into website accessibility, it is important to think about all aspects from colorblindess to just keyboard users for instancem, <div tabindex="0">I need keyboard focus!</div> can be used to rank tabs and priority. 
