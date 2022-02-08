@@ -73,5 +73,7 @@ Almost completed the Visual design element to Freecode camp and I am looking fow
 
 ## Day 12 Febuary 8th 
 
-Today is focused on applied accessibility for user interfaces and how screen readers process information. 
+Today is focused on applied accessibility for user interfaces and how screen readers process information. Also instilled is the need to use the <hx> tags not for sizing, but for actual layout of the webpage and the flow, and to indicatet hier rank, not to automatically decide on sizings for you. You should aim to use CSS for this. 
+  
+   main, header, footer, nav, article, and section are all new HTML tags for HTML5
 
