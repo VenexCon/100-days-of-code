@@ -73,4 +73,5 @@ Almost completed the Visual design element to Freecode camp and I am looking fow
 
 ## Day 12 Febuary 8th 
 
+Today is focused on applied accessibility for user interfaces and how screen readers process information. 
 
