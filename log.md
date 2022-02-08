@@ -68,3 +68,9 @@ I asked a question on stack overflow and got some...heated responses, soft skill
 
 ## Day 11 Febuary 7th 
 Decided to carry on with freecode camp, although i still want to get a better grasp of CSS where possible. Before carrying on with freecode camp i want to get the DIV background width =100% and center the wording and submission form. Decided against the background color as it did not look right. 
+
+Almost completed the Visual design element to Freecode camp and I am looking foward to getting started with the javascript element. I still want to get a good handle on CSS abd the underlying code and reasoning, but unsure of how to begin. The last elements are to do with UI design andf layout and @keyframes. 
+
+## Day 12 Febuary 8th 
+
+
