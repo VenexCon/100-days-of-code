@@ -98,3 +98,5 @@ When looking into website accessibility, it is important to think about all aspe
   - Comments section to type up answers, that then appears below the asked question. 
   - A page that links to another page with comments 
 ...............i need to rebuild reddit........
+
+  Continuing with the freecodce camp, i need to learn about viewports widths and differences to be able to appropriately assign the webpage to mobile, i need to go through and replace PX with EM equivilents and test it on mobile. 
