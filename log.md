@@ -87,7 +87,7 @@ Also must remmeber HTML5 tags are <></> atrtributes sit inside tags, values are 
   
 When looking into website accessibility, it is important to think about all aspects from colorblindess to just keyboard users for instancem, <div tabindex="0">I need keyboard focus!</div> can be used to rank tabs and priority. 
 
-  ## Day 13 Febuary 2022
+  ## Day 13 10th Febuary 2022
   
   Carrying on with free code camp, pretty happy with the main website frontpage but want to format the questions asked section to include up to date questions with answers, no idea how to do this yet but ui need to design the following; 
   - Question asked section 
