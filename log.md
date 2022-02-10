@@ -86,3 +86,15 @@ Today is focused on applied accessibility for user interfaces and how screen rea
 Also must remmeber HTML5 tags are <></> atrtributes sit inside tags, values are well values.
   
 When looking into website accessibility, it is important to think about all aspects from colorblindess to just keyboard users for instancem, <div tabindex="0">I need keyboard focus!</div> can be used to rank tabs and priority. 
+
+  ## Day 13 Febuary 2022
+  
+  Carrying on with free code camp, pretty happy with the main website frontpage but want to format the questions asked section to include up to date questions with answers, no idea how to do this yet but ui need to design the following; 
+  - Question asked section 
+  - Login for users
+  - Profile pictures 
+  - Accrediation upload for verification 
+  - Verification for approved users 
+  - Comments section to type up answers, that then appears below the asked question. 
+  - A page that links to another page with comments 
+...............i need to rebuild reddit........
