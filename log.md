@@ -100,3 +100,7 @@ When looking into website accessibility, it is important to think about all aspe
 ...............i need to rebuild reddit........
 
   Continuing with the freecodce camp, i need to learn about viewports widths and differences to be able to appropriately assign the webpage to mobile, i need to go through and replace PX with EM equivilents and test it on mobile. 
+  
+  ## Day 14 12th Febuary 2022 
+  
+  I researched how to progress from FCC and looking at reddi it seems that the odin project would be a better move after finishing CSS flrexbox, although I am tempted to continue tpo obtain the certification with FC. 
