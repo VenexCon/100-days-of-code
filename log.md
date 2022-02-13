@@ -105,3 +105,8 @@ When looking into website accessibility, it is important to think about all aspe
   
   I researched how to progress from FCC and looking at reddi it seems that the odin project would be a better move after finishing CSS flrexbox, although I am tempted to continue tpo obtain the certification with FC. 
 To finish the Index.html page I stylised the links using CSS Flex to avoid using inline styles and contained these with a flex container (Ex-list). Thewse are now styled and i am finished with the front page for now. 
+  
+  
+## Day 15 13th Febuary 2022 
+  
+Continued on with the freecodecamp flexbox section, along with signing up for the odin project. Will look into the Jon Duckett JS book once complete. 
