@@ -110,3 +110,8 @@ To finish the Index.html page I stylised the links using CSS Flex to avoid using
 ## Day 15 13th Febuary 2022 
   
 Continued on with the freecodecamp flexbox section, along with signing up for the odin project. Will look into the Jon Duckett JS book once complete. 
+  
+  
+ ## Day 16 17th Febuary 2022
+  
+  Continued learning about CSS Flex along with it's uses. Started with CSS Grid and introducing why to usae flex-basis. 
