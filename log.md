@@ -118,4 +118,4 @@ Continued on with the freecodecamp flexbox section, along with signing up for th
   
  ## Day 17 28th February 2022
   
-  Began learning about CSS Grid and howand where to implement Grid vs Flex/ 
+  Began learning about CSS Grid and howand where to implement Grid vs Flex. I have now completed all the CSS lessons and subsequnetly have moved onto the projects section. I shall complete the projects but look to ammend the content to a more relevant discipline. I am also going to change the kayout of my website to encorportate CSS grid and then choose the most appropriate. 
