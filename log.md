@@ -114,4 +114,8 @@ Continued on with the freecodecamp flexbox section, along with signing up for th
   
  ## Day 16 17th Febuary 2022
   
-  Continued learning about CSS Flex along with it's uses. Started with CSS Grid and introducing why to usae flex-basis. 
+  Continued learning about CSS Flex along with it's uses. Started with CSS Grid and introducing why to usae flex-basis. Spent time learning about the differences between CSS Grid and CSS Flex. 
+  
+ ## Day 17 28th February 2022
+  
+  Began learning about CSS Grid and howand where to implement Grid vs Flex/ 
