@@ -119,3 +119,5 @@ Continued on with the freecodecamp flexbox section, along with signing up for th
  ## Day 17 28th February 2022
   
   Began learning about CSS Grid and howand where to implement Grid vs Flex. I have now completed all the CSS lessons and subsequnetly have moved onto the projects section. I shall complete the projects but look to ammend the content to a more relevant discipline. I am also going to change the kayout of my website to encorportate CSS grid and then choose the most appropriate. 
+  
+  I have completed FreeCodeCamps project 1 on creating a tribute poage with 10/10 passes, this took me roughly 2-3 hours to finish with all tests passed. 
