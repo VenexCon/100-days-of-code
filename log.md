@@ -124,3 +124,11 @@ Continued on with the freecodecamp flexbox section, along with signing up for th
 
 ## Day 18 1st March 2022 
  Began completeing the survey page challenege on FreeCodeCamp. This will and shall be used on the Q&A website. 
+  
+  ## Day 19 2nd MArch 2022 
+  
+  Carried on with the code pen and finished the tribute page, began the survey page and completedt his evening. I changed the answered questions section to a CSS:grid format vs a flex box for easier manipulkation. Watched a few tutorials on how to create a forum so shall carry on with this and possible scrap the answered questions page. 
+  
+  ## Day 20 3rd MArch 2022 
+  
+ Completed the survey page and egan working on adapting the website. Will make the landing page and then include the SHEQ website onto that. 
