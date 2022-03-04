@@ -131,4 +131,4 @@ Continued on with the freecodecamp flexbox section, along with signing up for th
   
   ## Day 20 3rd MArch 2022 
   
- Completed the survey page and egan working on adapting the website. Will make the landing page and then include the SHEQ website onto that. 
+ Completed the survey page and began working on adapting the website. Will make the landing page and then include the SHEQ website onto that. I completedt he survey page and integrated that into the website. I forked a seperate branch to test out the CSS:grid use for the answered questions. Also receivied the book relating to javascript and Jquery. 
