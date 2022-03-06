@@ -132,3 +132,13 @@ Continued on with the freecodecamp flexbox section, along with signing up for th
   ## Day 20 3rd MArch 2022 
   
  Completed the survey page and began working on adapting the website. Will make the landing page and then include the SHEQ website onto that. I completedt he survey page and integrated that into the website. I forked a seperate branch to test out the CSS:grid use for the answered questions. Also receivied the book relating to javascript and Jquery. 
+  
+ ## Day 21 4th MArch 2022 ## 
+  
+  Completed the survey page to a decent standard, began the product landing page. Utilising CSS Grid and Flex for certain elements. Grid is currently proving far more useful thean flex, but flex is useful for media quiries. Created a branch from the main SHEQ branch in order to verify the CSS grid use on the SHEQ topics page. 
+  
+ ## Day 22 5th MArch 2022 ## 
+  
+  Completed the product landing page and used the current ongoing support for Ukraine for inspiration, couldnt upload the images due ot limitations from Code-pen but managed to layout the page how i wanted it. Utilising free-code-camp lessons along with the HTML & CSS book from Jon Duckett. Began reading through the ABC's of Javascript programming and have begun to learn about JavaScript. 
+  
+  Currently realising that my webpages do seem to be quite samey, so going to attempt to find inspiration with the SHEQ website and begin getting comfrtable with images. Perhaps make a photogrpahy website. 
