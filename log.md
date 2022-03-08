@@ -142,3 +142,11 @@ Continued on with the freecodecamp flexbox section, along with signing up for th
   Completed the product landing page and used the current ongoing support for Ukraine for inspiration, couldnt upload the images due ot limitations from Code-pen but managed to layout the page how i wanted it. Utilising free-code-camp lessons along with the HTML & CSS book from Jon Duckett. Began reading through the ABC's of Javascript programming and have begun to learn about JavaScript. 
   
   Currently realising that my webpages do seem to be quite samey, so going to attempt to find inspiration with the SHEQ website and begin getting comfrtable with images. Perhaps make a photogrpahy website. 
+  
+ ## Day 5-8th of MArch ## 
+  
+  Began learning the basics of JavaScript, using FreeCodeCamp and The odin project. I began reading through jon Ducketts work, but have been advised that it is better to learn up to JQuery, and then carry on with vanilla JS and touch upon JQuery later, as 80% of websites still use the JQuery Code. 
+  
+  I have decided to use TOP to stamp my progress, and use the FCC exercises to practice the taught elements. I have set-up Git, and have learnt that my past git commits are utter crap.
+  
+  To continue with the CSS & HTML practice, I am going to build a rental website for a holiday home, and try and implement everything i have learnt os far, including mobile first.
