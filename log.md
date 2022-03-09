@@ -149,4 +149,12 @@ Continued on with the freecodecamp flexbox section, along with signing up for th
   
   I have decided to use TOP to stamp my progress, and use the FCC exercises to practice the taught elements. I have set-up Git, and have learnt that my past git commits are utter crap.
   
-  To continue with the CSS & HTML practice, I am going to build a rental website for a holiday home, and try and implement everything i have learnt os far, including mobile first.
+  To continue with the CSS & HTML practice, I am going to build a rental website for a holiday home, and try and implement everything i have learnt os far, including mobile first. Began going through the odin project JS fundamentals with Jon ducketts book as a subsidy, i still want to develop my html and CSS skills, hence the website design that i shall start on weekends. I have been watching videos on semantic html so I shall attempt to implement this. 
+  
+  To-do List 
+  
+  - Initial HTML for rental website, view other websites for inspiration. 
+  - Create project files and commit to git, only allowed to use Gitbash for commits. 
+  - Implement two scripts to make the website interactive, i.e greetings message or other interactivity. 
+  
+  
