@@ -158,3 +158,8 @@ Continued on with the freecodecamp flexbox section, along with signing up for th
   - Implement two scripts to make the website interactive, i.e greetings message or other interactivity. 
   
   
+  ## Days 8-12th March. 
+  
+  Began with the foundations of javaScript, spending alot of time ensuring clean coding and getting familiar with console.log. Currently following the odin project, and using FCC resources to ensure that i practice with the theory. Got familiar with using Git and GitBash etc, still prefer Github but hey ho. I have began noting dfown uses for the JS Functions created and seeing how they are used in websites. 
+  
+Decided to not go for the holiday cottage, but rather the sanalogue photography website, i am going to embed some instas into the pages, as aprt of a feature and look into how i can use JS i na webpage. 
