@@ -158,14 +158,14 @@ Continued on with the freecodecamp flexbox section, along with signing up for th
   - Implement two scripts to make the website interactive, i.e greetings message or other interactivity. 
   
   
-  ## Days 8-12th March. 
+## Days 8-12th March. 
   
   Began with the foundations of javaScript, spending alot of time ensuring clean coding and getting familiar with console.log. Currently following the odin project, and using FCC resources to ensure that i practice with the theory. Got familiar with using Git and GitBash etc, still prefer Github but hey ho. I have began noting dfown uses for the JS Functions created and seeing how they are used in websites. 
   
 Decided to not go for the holiday cottage, but rather the sanalogue photography website, i am going to embed some instas into the pages, as aprt of a feature and look into how i can use JS in a webpage. 
 
   
- ## Days 12th-14th March
+## Days 12th-14th March
   
  Contiunued with the JS Foundations course, alongside following the reading material supplied by the odin project. Completed all the JS challeneges so far without too much difficulty. The Golf Code, one i was worried about but managed to complete that in less than an hour. I have began using codePen to ensure that where I am not fully grasping the JavaScript, that i can take the functions and play around with them to ensure muscle memory. I made a password acceptor yesterday that took a string and identified lengths, and was passed through some if-else statements to show accepted or not accepted. 
 <hr>
