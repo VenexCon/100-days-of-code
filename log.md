@@ -168,3 +168,8 @@ Decided to not go for the holiday cottage, but rather the sanalogue photography 
  ## Days 12th-14th March
   
  Contiunued with the JS Foundations course, alongside following the reading material supplied by the odin project. Completed all the JS challeneges so far without too much difficulty. The Golf Code, one i was worried about but managed to complete that in less than an hour. I have began using codePen to ensure that where I am not fully grasping the JavaScript, that i can take the functions and play around with them to ensure muscle memory. I made a password acceptor yesterday that took a string and identified lengths, and was passed through some if-else statements to show accepted or not accepted. 
+<hr>
+## Days 14th to the 28th March 2022. 
+  
+  For the past 12 days I have carried n learning JS but not referenced the books by Jon Duckett as much. The past JS lessons have focused on data manipulation by use of for, while and do while loops. I have been focusing on going back over the reference material as some things do not seem to be sinking in. I still have yet to include any JS in my code as i have not covered grabbing elements from the dom yet, so i have a few back-up ideas, so when i do learn, i can complete two projects. 
+ 
