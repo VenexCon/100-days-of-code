@@ -165,7 +165,7 @@ Continued on with the freecodecamp flexbox section, along with signing up for th
 Decided to not go for the holiday cottage, but rather the sanalogue photography website, i am going to embed some instas into the pages, as aprt of a feature and look into how i can use JS in a webpage. 
 
   
-## Days 12th-14th March
+## Days 12th-24th March
   
  Contiunued with the JS Foundations course, alongside following the reading material supplied by the odin project. Completed all the JS challeneges so far without too much difficulty. The Golf Code, one i was worried about but managed to complete that in less than an hour. I have began using codePen to ensure that where I am not fully grasping the JavaScript, that i can take the functions and play around with them to ensure muscle memory. I made a password acceptor yesterday that took a string and identified lengths, and was passed through some if-else statements to show accepted or not accepted. 
 <hr>
@@ -173,3 +173,8 @@ Decided to not go for the holiday cottage, but rather the sanalogue photography 
   
   For the past 12 days I have carried n learning JS but not referenced the books by Jon Duckett as much. The past JS lessons have focused on data manipulation by use of for, while and do while loops. I have been focusing on going back over the reference material as some things do not seem to be sinking in. I still have yet to include any JS in my code as i have not covered grabbing elements from the dom yet, so i have a few back-up ideas, so when i do learn, i can complete two projects. 
  
+## Days 24th to 1st April.
+
+This time has been spent focusing on the fCC exercises and MDN docs. Specifically learning about arrays, functions and recursion.
+Time spent going through the TOP array sections and focusing on practicing with arrays in codePen. Currently onto the remove string exercises and I am beginning to find that syntax, and breaking down problems is becoming easier. 
+Work has been incredibly busy so I have not been finding as much time during the week to learn, and as such progress has slowed. 
