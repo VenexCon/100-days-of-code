@@ -178,3 +178,8 @@ Decided to not go for the holiday cottage, but rather the sanalogue photography 
 This time has been spent focusing on the fCC exercises and MDN docs. Specifically learning about arrays, functions and recursion.
 Time spent going through the TOP array sections and focusing on practicing with arrays in codePen. Currently onto the remove string exercises and I am beginning to find that syntax, and breaking down problems is becoming easier. 
 Work has been incredibly busy so I have not been finding as much time during the week to learn, and as such progress has slowed. 
+
+<hr>
+## Day 2nd April 2022 
+  
+ Started off by finishing the removeFromArray task on the TOP javascript exercises. Not going to lie, had to google a fair bit for this, the idea ofusing splice for one argument was my initial idea, but the ...args was a new method i had not come across before. From this i stumbled upon ES7 arrow functions and took some time to clarify them for myself and my own use. I did heavily google to come to my conclusion but ensured that i understood why the function was doing what it was doing and also how. I think I need to practice arrow functions abit more to get fully comfortable with them. 
