@@ -183,3 +183,11 @@ Work has been incredibly busy so I have not been finding as much time during the
 ## Day 2nd April 2022 
   
  Started off by finishing the removeFromArray task on the TOP javascript exercises. Not going to lie, had to google a fair bit for this, the idea ofusing splice for one argument was my initial idea, but the ...args was a new method i had not come across before. From this i stumbled upon ES7 arrow functions and took some time to clarify them for myself and my own use. I did heavily google to come to my conclusion but ensured that i understood why the function was doing what it was doing and also how. I think I need to practice arrow functions abit more to get fully comfortable with them. 
+<hr>
+  
+## Day 3rd April 2022 
+  Started by continuing on with the JAvascript function exercises on The Odin Project and going over some of the soloutions to ensure i understand what is going on. IO am still using if statements as a crutch, for exampe the leap year takes three conditions, for this I should have used the terenary operator but achieve the same result using if...else statements. 
+
+  I want to start getting some websites up off the ground and have n idea for a H&S calculator that deals with more niche areas, and i think this could be of some use in my workplace. 
+  
+  So far i have become more comfortable with for loops, but while and do while I still need to practice. 
