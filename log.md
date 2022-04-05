@@ -191,3 +191,10 @@ Work has been incredibly busy so I have not been finding as much time during the
   I want to start getting some websites up off the ground and have n idea for a H&S calculator that deals with more niche areas, and i think this could be of some use in my workplace. 
   
   So far i have become more comfortable with for loops, but while and do while I still need to practice. 
+<hr> 
+  
+## Day 5th April 2022
+  
+  For some reason Github is not updating with my commits since switching laptops, unsure as to why and it's quite irritating. I am still working through the javaScript exercises and getting more comfortable with loops and callbac functions. 
+  
+  So far i have also introdued filter, arrow functions and reduce(), i still need ot take time to get familiar with them, but so far it is going well. Goign to set out the base of the new website tonight. 
