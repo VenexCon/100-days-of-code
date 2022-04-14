@@ -198,3 +198,9 @@ Work has been incredibly busy so I have not been finding as much time during the
   For some reason Github is not updating with my commits since switching laptops, unsure as to why and it's quite irritating. I am still working through the javaScript exercises and getting more comfortable with loops and callbac functions. 
   
   So far i have also introdued filter, arrow functions and reduce(), i still need ot take time to get familiar with them, but so far it is going well. Goign to set out the base of the new website tonight. 
+
+  Days 5th April - 9th April. 
+  
+  Continued with the whats for Tea website and JavaScript. Was understandable, but splitting JSON data and manipulation of data will take some time to learn. I completed TheOdinProjects JavaScript exercises and some more, as i did not know where to stop at, so it was nice to get comfortable with newer methods and function creations. I have yet to finish the JS Foundations but only have two lessons left on TOP so I wil lcarry on with these after Easter. I am looking foward to DOM manipulation but no doubt this will take some time to learn. 
+  
+ I will also have a play around with shopify and Wordpress as I have an idea for a business and will look to gain experience in creating these websites and becoming familiar with the Ecommerce platforms. 
