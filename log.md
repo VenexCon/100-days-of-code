@@ -204,3 +204,12 @@ Work has been incredibly busy so I have not been finding as much time during the
   Continued with the whats for Tea website and JavaScript. Was understandable, but splitting JSON data and manipulation of data will take some time to learn. I completed TheOdinProjects JavaScript exercises and some more, as i did not know where to stop at, so it was nice to get comfortable with newer methods and function creations. I have yet to finish the JS Foundations but only have two lessons left on TOP so I wil lcarry on with these after Easter. I am looking foward to DOM manipulation but no doubt this will take some time to learn. 
   
  I will also have a play around with shopify and Wordpress as I have an idea for a business and will look to gain experience in creating these websites and becoming familiar with the Ecommerce platforms. 
+  
+  
+<hr> 
+  
+## Days 20/04/2022 
+  
+  I have been keeping up ith coding, however due to technical issues I have not had a chance to practice! i have started a wordpress website to become familiar with Ecommerce sites, as this is for a side project in conjunction with my partner! We are looking to begin a business that will give us a source of incomce during my partners maternity leave! 
+  
+I am close to finishing the JS foundations, but I am now on the DOM manipulation and am excited to learn about how best to manipulate the DOM. 
