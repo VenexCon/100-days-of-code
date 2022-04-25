@@ -213,3 +213,10 @@ Work has been incredibly busy so I have not been finding as much time during the
   I have been keeping up ith coding, however due to technical issues I have not had a chance to practice! i have started a wordpress website to become familiar with Ecommerce sites, as this is for a side project in conjunction with my partner! We are looking to begin a business that will give us a source of incomce during my partners maternity leave! 
   
 I am close to finishing the JS foundations, but I am now on the DOM manipulation and am excited to learn about how best to manipulate the DOM. 
+
+  
+  <hr> 
+  
+## 20th-25th April. 
+  
+  Working through TOP again, began the improved RPS project using DOM manipulation to make the game more interactive. Researched into template literals, DOM methods and element manipulation. Interested in JSon data manipulation and displaying results from audits and records using a webpage. 
